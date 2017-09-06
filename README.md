@@ -11,3 +11,7 @@ A CustomEnchant instance requires a name, maximum level, and the enchantment tar
 ## Built-in Custom Enchants
 
 There are 3 built-in custom enchants, however they are VERY rough and would need polishing on a server by server basis.
+
+* Auto Smelt: Turns drops into their smelted form when a block is broken.
+* Excavation: Mines a radius around the block broken. Will not break any blocks that the tool cannot normally break (e.g. a pickaxe cannot break wood) unless the item has the MultiTool custom enchant.
+* MultiTool: Changes the tool type to match whatever block is being broken.
