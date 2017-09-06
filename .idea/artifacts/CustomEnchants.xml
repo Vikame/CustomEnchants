@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CustomEnchants">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="CustomEnchants.jar">
+      <element id="module-output" name="CustomEnchants" />
+    </root>
+  </artifact>
+</component>

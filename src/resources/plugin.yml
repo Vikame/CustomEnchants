@@ -1,0 +1,7 @@
+name: CustomEnchants
+version: 1.0.0
+author: ThreadSafe
+main: me.threadsafe.customenchants.CustomEnchants
+commands:
+  safe:
+  enchant:
