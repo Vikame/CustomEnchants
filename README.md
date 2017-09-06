@@ -1,6 +1,6 @@
 # CustomEnchants
 
-A library used for creating custom enchants.
+A library used for creating custom enchants. Built using spigot for 1.7.10 on Java 8.
 
 ## Custom Enchantment Creation
 
